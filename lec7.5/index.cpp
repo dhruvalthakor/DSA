@@ -90,24 +90,24 @@ int main()
 
  //--------Q5-------
 
-int ma[3][3] = {{11, 12, 13}, 
-                {4, 5, 6},
-                {7, 8, 9}};
+// int ma[3][3] = {{11, 12, 13}, 
+//                 {4, 5, 6},
+//                 {7, 8, 9}};
     
-    cout << "Row-wise Sum:" << endl;
-    for(int i=0; i<3; ++i) {
-        int rowSum = 0;
-        for(int j=0; j<3; ++j) {
-            if (i==)
-            {
-                /* code */
-            }
+//     cout << "Row-wise Sum:" << endl;
+//     for(int i=0; i<3; ++i) {
+//         int rowSum = 0;
+//         for(int j=0; j<3; ++j) {
+//             if (i==)
+//             {
+//                 /* code */
+//             }
             
-            // cout<<ma[i][j];
-           rowSum += ma[i][j];
-        }
-      cout << "Row " << i+1 << ": " << rowSum << endl;
-    }
+//             // cout<<ma[i][j];
+//            rowSum += ma[i][j];
+//         }
+//       cout << "Row " << i+1 << ": " << rowSum << endl;
+//     }
 
 //   
 //     cout << "Column-wise Sum:" << endl;
